@@ -1,0 +1,2 @@
+# HHShellClient
+HHShellClient 是合伙呀创始人李长鸿特地为提高工作效率而开发的一款app，在mac app里执行shell脚本，打包脚本等
