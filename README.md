@@ -4,7 +4,7 @@
 
 The MAC system itself provides so many scripting capabilities. Why not combine these capabilities and let an app complete your task?
 
-Auto build is a good example
+CI is a good example
 
 This sample project is developed with swift 5.0
 
@@ -20,7 +20,7 @@ Talk is heap, show you code!
 
 mac系统本身提供了那么多脚本能力，为什么不把这些能力结合起来，让一个app去完成你的任务呢？
 
-自动构建是很好的一个例子
+持续集成是很好的一个例子
 
 本示例工程使用swift 5.0开发
 
